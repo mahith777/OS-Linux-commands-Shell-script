@@ -38,28 +38,24 @@ c.k. shukla
 lalit chowdury
 s.n. dasgupta
 ^d
-```
-### Display the content of the files
-cat < file1
-## OUTPUT
-
-
+``` 
+text](img/file01.png)
 
 cat < file2
 ## OUTPUT
-
+![Alt text](img/file2.png)
 
 # Comparing Files
 cmp file1 file2
 ## OUTPUT
- 
+ ![Alt text](img/com.png)
 comm file1 file2
  ## OUTPUT
-
+![Alt text](img/comm.png)
  
-diff file1 file2
+diff file1 fiAlt textle2
 ## OUTPUT
-
+![Alt text](img/diff.png)
 
 #Filters
 
@@ -83,18 +79,18 @@ cat > file22
 cut -c1-3 file11
 ## OUTPUT
 
-
+![Alt text](img/cut1.png)
 
 
 cut -d "|" -f 1 file22
 ## OUTPUT
 
+![Alt text](img/cut2.png)
 
 
 cut -d "|" -f 2 file22
 ## OUTPUT
-
-
+![Alt text](img/cut3.png)
 cat < newfile 
 ```
 Hello world
